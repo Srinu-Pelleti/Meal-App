@@ -27,7 +27,7 @@ HTML
 CSS
 JavaScript
 Demo
-Check out the live demo of the application at https://imsahadeb.github.io/The-Meal-App-Coding-Ninjas/
+Check out the live demo of the application at  https://srinu-pelleti.github.io/Meal-App/
 
 Authors
-@imsahadeb
+@Srinu-Pelleti
